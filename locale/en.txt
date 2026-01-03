@@ -1,0 +1,43 @@
+#: locale=en
+
+## Action
+
+### PDF
+PopupPDFBehaviour_957D7657_8320_FC81_41C5_32A2A49166D4.url = files/GoogleMap_Brgy.%20Tagbakin%20lot_en.pdf
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_9E7082F5_8120_D581_41D0_5216E1320B0A.text = Area: 31,417 sq.m.
+QuadHotspotPanoramaOverlayTextImage_9082C11C_8120_3486_41D7_6A9DD57BE092.text = Area: 34,984 sq.m.
+QuadHotspotPanoramaOverlayTextImage_9C7A0262_8120_F482_4195_CE9B77F37F4F.text = Area: 47,478 sq.m.
+
+## Media
+
+### Image
+imlevel_93E5D894_80E0_3586_41C3_16E03C6C26F9.url = media/panorama_8A1D6A92_80E0_7583_41DA_7B554F9623F5_HS_1aplzy6u_en.webp
+imlevel_93E7684D_80E0_3486_41D3_66943C1176AB.url = media/panorama_8A1D6A92_80E0_7583_41DA_7B554F9623F5_HS_o8p77wg8_en.webp
+imlevel_94E2C812_80E0_3482_41CC_97CF751C7DD8.url = media/panorama_8A1D6A92_80E0_7583_41DA_7B554F9623F5_HS_wfyvl7h3_en.webp
+
+### Title
+panorama_8A1D6A92_80E0_7583_41DA_7B554F9623F5.label = Tagbakin, TIaong, Quezon
+video_97B78D9B_8360_4F82_41D8_F20B6E006B30.label = lotarea
+
+### Video
+videolevel_9A24B1E4_8320_3786_4196_93DF99FB52B6.url = media/video_97B78D9B_8360_4F82_41D8_F20B6E006B30_en.mp4
+videolevel_9A24B1E4_8320_3786_4196_93DF99FB52B6.posterURL = media/video_97B78D9B_8360_4F82_41D8_F20B6E006B30_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Label
+Label_9653DE24_8320_4C86_41D5_2F9F0487425C.text = Brgy. Tagbakin, Tiaong, Quezon
+Label_94F03E9B_8320_CD82_41C9_6787CA2D4C10.text = Lot for Sale
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 14
